@@ -1,0 +1,81 @@
+Todays Lecture Agenda : 
+
+
+CSS day 1 : 
+
+
+TYPES > 
+
+
+1> Inline CSS -->
+
+Definition: CSS applied directly inside an HTML element using the style attribute.
+
+<h1 style="color: red; font-size: 30px;">Hello World</h1>
+
+
+
+2> Internal CSS -->
+
+Definition: CSS written inside a <style> tag in the <head> section of the HTML document.
+
+
+<html>
+<head>
+  <style>
+    h1 { color: blue; font-size: 30px; }
+  </style>
+</head>
+<body>
+  <h1>Hello World</h1>
+</body>
+</html>
+
+
+
+
+3> External CSS -->
+
+
+Definition: CSS written in a separate .css file and linked to the HTML file using the <link> tag.
+
+
+style.css file 
+
+h1 {
+  color: green;
+  font-size: 30px;
+}
+
+
+
+
+index.html file
+
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hello World</h1>
+</body>
+</html>
+
+
+
+
+diff betw Types of CSS :
+
+
+
+Inline CSS → For single elements, quick changes.
+
+Internal CSS → For single-page styling.
+
+External CSS → For large projects, multiple pages (best practice).
+
+
+
+
+  
+
