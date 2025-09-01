@@ -1,0 +1,99 @@
+
+refer this html code :
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="style4.css">
+</head>
+<body>
+
+    <h1>MY PORTFOLIO...</h1>
+
+    <div class="lorem">
+      <div class="leo">
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus doloribus sequi soluta vel nobis! 
+        Incidunt quidem aspernatur asperiores, vero expedita illum? Alias impedit natus officiis rem quisquam! 
+        Sed, magni error. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit, obcaecati! 
+        Aspernatur perspiciatis magnam fugit ipsa numquam unde architecto molestiae voluptatem molestias asperiores qui, 
+        quae cupiditate magni commodi, quaerat amet reiciendis? Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Perferendis voluptate hic neque, soluta aut iste aliquam facilis nulla autem eius? Hic porro aspernatur quia 
+        maiores esse ratione nulla, saepe voluptates.
+      </div>
+
+      <div class="img">
+        <img src="cat.jpg" alt="cat image">
+      </div>
+    </div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+CSS code : 
+
+
+
+
+
+
+
+* {
+  background-color: rgb(141, 178, 247);
+}
+
+h1 {
+  background-color: cornsilk;
+  margin: 20px;
+  margin-right:650px;
+  padding: 10px;
+  max-width: 500px;
+
+}
+
+.lorem{
+  display: flex;
+  margin: 30px;
+  gap: 20px;
+}
+
+.leo{
+  background-color: rgb(253, 179, 6);
+  padding: 20px;
+  border-radius: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+}
+
+img {
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
