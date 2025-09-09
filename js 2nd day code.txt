@@ -1,0 +1,149 @@
+
+
+// // console.log('A');
+
+
+// /*
+// console.log(22.34);
+// asdfghj
+// sdfgh
+// sdfg
+// sdfg
+// */
+// let a=30;
+// let b =90;
+// let c= a+b;
+// console.log(c);
+
+
+// const isActive = true;
+// console.log(isActive);
+
+
+// let w = undefined
+
+// const d = null
+// // 
+
+// let person = {
+//     name:"alex",
+// age:30,
+// city:"nagpur"
+
+// }
+// age=40;
+
+// console.log(age);
+
+
+// Array
+
+// let a =  [2,4,6,7,3,9,6,4];
+
+// console.log(a);
+// console.log(a[3])
+// a. Pop();
+// console.log(a.push(12));
+// console.log(a);
+// console.log(a.sort());
+// console.log(a);
+
+// let s = "javascript is a programming language";
+
+// console.log(s.length);
+// console.log(s.toUpperCase());
+// console.log(s.toLowerCase());
+// console.log(s.startsWith("java"))
+
+
+// let Student = {
+
+//     name :"yash",
+//     age:30,
+//     city:"mumbai",
+//     rollNo :197
+
+// }
+
+// // console.log(Student);
+// // console.log(Student.name);
+// // console.log(Student);
+// // console.log(Student);
+
+
+// // let  dd = Object.keys(Student);
+// // console.log(dd);
+
+// // let  ds = Object.values(Student);
+// // console.log(ds);
+
+
+
+// // let a = 30;
+
+// // if(a>40){
+// // console.log("a is greater than 40");
+// // }else{
+// //     console.log("a is smaller than 40");
+// // }
+
+// // for(let i=0; i<10; i++){
+// //     console.log("hello world", i);
+// // }
+
+
+// // JSON = JAVASCRIPT OBJECT NOTATION
+
+// // keys: values pairs
+
+
+
+// function js(){
+//     console.log("hello world");
+//      console.log("hello world");
+//       console.log("hello world");
+//        console.log("hello world");
+// }
+
+// js();
+// js();
+
+// js();
+
+// js();
+
+// js();
+
+// js();
+// js();
+
+
+// function add(a, b) {
+
+//     return a + b;
+// }
+
+// console.log(add(10,40));
+
+// function StudentName(name){
+//     console.log(name);
+// }
+
+
+// StudentName("yash");
+
+// StudentName("sahil");
+// StudentName("sejal");
+// StudentName("sita");
+
+
+ let square = (a) => a*a;
+
+ console.log(square(10));
+
+
+
+
+
+
+
